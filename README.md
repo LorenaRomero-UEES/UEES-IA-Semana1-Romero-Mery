@@ -161,8 +161,7 @@ Cada notebook puede ejecutarse de forma independiente ya que incluye:
 ## Autores
 
 **Nombre**: Mery Romero, José Navarro, Jennifer Lainez, Karina Cali, Ruben Acebo  
-**Email**: mery.romero@uees.edu.ec - jose.navarro@uees.edu.ec 
-jenniffer.lainez@uees.edu.ec - karina.cali@uees.edu.ec - racebo@uees.edu.ec
+**Email**: mery.romero@uees.edu.ec - jose.navarro@uees.edu.ec - jenniffer.lainez@uees.edu.ec - karina.cali@uees.edu.ec - racebo@uees.edu.ec
 **Institución**: Universidad Espíritu Santo (UEES)  
 **Programa**: Maestría en Inteligencia de Negocios y Ciencia de Datos  
 **Curso**: Inteligencia Artificial
